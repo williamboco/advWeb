@@ -1,0 +1,170 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.navStyle {
+    background-color: #c25b56;
+}
+
+.navStyle .navbar {
+    background-color: #c25b56;
+}
+
+.navStyle .navbar a {
+    color: #f8f8f8;
+    padding: 20px 35px 20px 35px;
+}
+
+.navStyle .navbar img {
+    width: 25px;
+    height: auto;
+}
+
+.navStyle .navbar form {
+    padding: 20px;
+}
+
+.subNav {
+    background-color: #c25b56;
+}
+
+.subNav .navbar button {
+    background-color: #c25b56;
+}
+
+.subNav .navbar .btn {
+    color: #f8f8f8;
+    padding: 10px 40px
+}
+
+/*----------------------- Product Image ------------------------------ */
+#productCarousel {
+    width: 280px;
+    height: 450px;
+    overflow: hidden;
+    padding-top: 40px;
+}
+
+.carousel-item {
+    max-height: 450px;
+    max-width: 280px;
+}
+
+.carousel-item > img {
+    height: 450px;
+    width: 100%;
+}
+
+.cardStyle {
+    width: 280px;
+}
+
+/*----------------------- Product Details ------------------------------ */
+
+.prodDetails {
+    padding: 40px 25px 10px 25px;
+    text-align: justify;
+}
+
+.prodDetails p {
+    padding-bottom: 20px;
+}
+
+.prodDetails a{
+    color: black;
+}
+
+.prodDetails .checked {
+    color: #ffc04c;
+}
+
+/*----------------------- Order Box ------------------------------ */
+
+.orderBox {
+    width: 260px;
+    height: auto;
+    padding-top: 40px;
+}
+
+.orderBox h2 {
+    text-align: center;
+}
+
+.orderBox p {
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+.orderBox strong {
+    padding-top: 20px
+}
+
+.orderBox img {
+    width: 50px;
+    height: auto;
+    padding-top: 10px;
+}
+
+/*----------------------- Review ------------------------------ */
+.reviewHead {
+    padding-top: 20px;
+}
+
+.rateStars .fa {
+    padding-top: 3px;
+    padding-left: 10px;
+    color:#dbdbdb;
+}
+
+#commentBox{
+    width: 900px;
+    height: 100px;
+    padding-bottom: 20px;
+}
+
+.comment {
+    padding: 20px 20px 20px 0px;
+}
+
+.comment img {
+    width: 50%;
+    height: auto;
+    float: right;
+}
+
+.comment strong {
+    float: right;
+}
+
+.comment p {
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+/*----------------------- Footer ------------------------------ */
+footer {
+    background-color: #c25b56;
+    color: #f8f8f8;
+}
+
+.storeDetails {
+    padding: 20px;
+}
+
+.storeDetails a{
+    color: #f8f8f8;
+}
+
+.mop {
+    padding: 20px;
+}
+
+.mop img {
+    width: 90px;
+    height: auto;
+    padding: 5px;
+}
+
+.mop p {
+    float: right;
+}

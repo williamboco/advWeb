@@ -1,0 +1,81 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.navStyle {
+    background-color: #c25b56;
+}
+
+.navStyle .navbar {
+    background-color: #c25b56;
+}
+
+.navStyle .navbar a {
+    color: #f8f8f8;
+    padding: 20px 35px 20px 35px;
+}
+
+.navStyle .navbar img {
+    width: 25px;
+    height: auto;
+}
+
+.navStyle .navbar form {
+    padding: 20px;
+}
+
+.subNav {
+    background-color: #c25b56;
+}
+
+.subNav .navbar button {
+    background-color: #c25b56;
+}
+
+.subNav .navbar .btn {
+    color: #f8f8f8;
+    padding: 10px 40px
+}
+
+/*----------------------- Message ------------------------------ */
+.message {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.message h1 {
+    padding: 40px 20px 20px 20px;
+    font-size: 100px;
+}
+
+.message p, .message h5, .message h4 {
+    padding: 10px;
+}
+
+/*----------------------- Footer ------------------------------ */
+footer {
+    background-color: #c25b56;
+    color: #f8f8f8;
+}
+
+.storeDetails {
+    padding: 20px;
+}
+
+.storeDetails a{
+    color: #f8f8f8;
+}
+
+.mop {
+    padding: 20px;
+}
+
+.mop img {
+    width: 90px;
+    height: auto;
+    padding: 5px;
+}
+
+.mop p {
+    float: right;
+}

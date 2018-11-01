@@ -1,0 +1,119 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.navStyle {
+    background-color: #c25b56;
+}
+
+.navStyle .navbar {
+    background-color: #c25b56;
+}
+
+.navStyle .navbar a {
+    color: #f8f8f8;
+    padding: 20px 35px 20px 35px;
+}
+
+.navStyle .navbar img {
+    width: 25px;
+    height: auto;
+}
+
+.navStyle .navbar form {
+    padding: 20px;
+}
+
+.subNav {
+    background-color: #c25b56;
+}
+
+.subNav .navbar button {
+    background-color: #c25b56;
+}
+
+.subNav .navbar .btn {
+    color: #f8f8f8;
+    padding: 10px 40px
+}
+
+/*----------------------- Jumbotron ------------------------------ */
+#jumboStyle {
+    padding: 30px 0px 10px 0px;
+    background-image: url("../img/jumbotron_1.jpeg");
+    background-size: cover;
+    overflow: hidden;
+}
+
+#jumboStyle .jumbotron {
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.70);
+}
+
+/*----------------------- Side ------------------------------ */
+#feature {
+    padding: 40px;
+}
+
+#feature img {
+    width: 200px;
+    height: auto;
+}
+
+/*----------------------- Products ------------------------------ */
+.newReleases {
+    padding: 40px;
+}
+
+.newReleases a{
+    color: black;
+}
+
+.title{
+    padding: 10px;
+}
+
+.title a{
+    color: black;
+}
+
+.cardStyle img {
+    height: 35%;
+
+}
+
+.cardStyle a{
+    color:black;
+}
+
+.error {
+	border-color: red;
+}
+
+/*----------------------- Footer ------------------------------ */
+footer {
+    background-color: #c25b56;
+    color: #f8f8f8;
+}
+
+.storeDetails {
+    padding: 20px;
+}
+
+.storeDetails a{
+    color: #f8f8f8;
+}
+
+.mop {
+    padding: 20px;
+}
+
+.mop img {
+    width: 90px;
+    height: auto;
+    padding: 5px;
+}
+
+.mop p {
+    float: right;
+}
